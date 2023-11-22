@@ -137,6 +137,7 @@ pip install -r requirements.txt
 
 ```shell
 python ChuanhuChatbot.py
+
 ```
 
 一个浏览器窗口将会自动打开，此时您将可以使用 **川虎Chat** 与ChatGPT或其他模型进行对话。
